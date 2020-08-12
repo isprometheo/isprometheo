@@ -40,7 +40,7 @@
 ![isprometheo's github stats](https://github-readme-stats.vercel.app/api?username=isprometheo&hide=contribs,prs)
 
 
-[website]: https://isprometheo.github.io
+[website]: https://prometheo.tistory.com
 [linkedin]: https://www.linkedin.com/in/hyun-min-han-72aba21b
 
 <!--
