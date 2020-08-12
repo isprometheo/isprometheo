@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm HHM - aka [isprometheo][isprometheo.github.io] 👋
+
+## I'm Developer
+- I'm currently working on [Kakao][www.kakaocorp.com]
 
 <!--
 **isprometheo/isprometheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
